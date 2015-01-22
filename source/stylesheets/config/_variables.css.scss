@@ -3,18 +3,29 @@
  * ------------------------------------- */
 // Google fonts
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
-$open-sans: "Open Sans", "Helvetica", "sans-serif";
-$montserrat: "Montserrat", "sans-serif";
+@import url("http://fonts.googleapis.com/css?family=Merriweather:400,300,700");
+$base-font: "Merriweather", "Helvetica", "sans-serif";
+$header-font: "Montserrat", "sans-serif";
+
 
 // Local fonts (uncomment following lines)
-// @font-face {
-//   font-family: "Font Name";
-//   src: font-url('FontFile.eot');
-//   src: font-url('FontFile.eot?#iefix') format('embedded-opentype'),
-//        font-url('FontFile.woff') format('woff'),
-//        font-url('FontFile.ttf') format('truetype')
-// }
-// $my-font: "Font Name";
+@font-face {
+  font-family: "Brandon Light";
+  src: font-url('brandon-grotesque-light.eot');
+  src: font-url('brandon-grotesque-light.eot?#iefix') format('embedded-opentype'),
+       font-url('brandon-grotesque-light.woff') format('woff'),
+       font-url('brandon-grotesque-light.ttf') format('truetype')
+}
+$brandon-light: "Brandon Light";
+
+@font-face {
+  font-family: "Brandon Regular";
+  src: font-url('brandon-grotesque-regular.eot');
+  src: font-url('brandon-grotesque-regular.eot?#iefix') format('embedded-opentype'),
+       font-url('brandon-grotesque-regular.woff') format('woff'),
+       font-url('brandon-grotesque-regular.ttf') format('truetype')
+}
+$brandon-regular: "Brandon Regular";
 
 // Font-size and line-height
 $base-size: 16px;

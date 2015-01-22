@@ -1,0 +1,46 @@
+#banner {
+  background-image: image-url("bouquins.jpg");
+  background-size: cover;
+  color: white;
+  height: 800px;
+  padding-top: 200px;
+  h1 {
+    font-size: 60px;
+    font-family: $brandon-light;
+    text-transform: uppercase;
+  }
+  p {
+    font-size: 25px;
+    font-weight: 300;
+    margin: 40px 0;
+  }
+}
+
+#description {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  h2 {
+  font-size: 28px;
+  font-family: $brandon-regular;
+  }
+  p {
+    font-weight: 300;
+    font-style: italic;
+    text-align: justify;
+  }
+  img {
+
+  }
+}
+
+#contact {
+  h2 {
+  font-family: $brandon-regular;
+  font-size: 28px;
+  }
+}
+
+
+
+
+

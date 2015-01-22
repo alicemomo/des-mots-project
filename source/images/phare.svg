@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Your_Icon" x="0px" y="0px" width="100px" height="100px" viewBox="5.0 -10.0 100.0 135.0" enable-background="new 0 0 100 100" xml:space="preserve">
+<polygon fill="#FFFFFF"  points="34.941,19 50.536,6.88 66.132,19 "/>
+<g>
+	<rect fill="#FFFFFF"  x="35" y="24" width="7" height="17"/>
+	<g>
+		<rect fill="#FFFFFF"  x="48" y="24" width="6" height="17"/>
+		<rect fill="#FFFFFF" x="59" y="24" width="7" height="17"/>
+	</g>
+</g>
+<rect fill="#FFFFFF"  x="33" y="38" width="35" height="3"/>
+<rect fill="#FFFFFF" x="35" y="43" width="30" height="3"/>
+<rect fill="#FFFFFF" x="33" y="20" width="35" height="4"/>
+<path fill="#FFFFFF"  d="M47,83h7v16h13.849l-2.423-52H34.518L32.7,99H47V83z M48,50h5v8h-5V50z M48,63h5v10h-5V63z"/>
+<g>
+	<path fill="#FFFFFF"  d="M53.453,5.985c-0.265-2.157-1.522-3.792-3.037-3.792c-1.514,0-2.772,1.635-3.036,3.792   c1.726,0.422,3.036,2.435,3.036,4.859C50.416,8.42,51.726,6.408,53.453,5.985z"/>
+	<path fill="#FFFFFF"  d="M50.416,10.845c0,0.208-0.013,0.413-0.032,0.615c0.012,0,0.021,0.002,0.032,0.002s0.021-0.002,0.032-0.002   C50.429,11.258,50.416,11.053,50.416,10.845z"/>
+</g>
+<polygon fill="#FFFFFF" points="33,25.716 6,18.406 6,29.778 6,40.408 33,33.575 "/>
+<polygon  fill="#FFFFFF" points="68,25.716 95,18.406 95,29.778 95,40.408 68,33.575 "/></svg>
